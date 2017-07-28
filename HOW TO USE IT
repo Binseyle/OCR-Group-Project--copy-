@@ -1,0 +1,17 @@
+First you need SDL Library On your computeur and a Gcc compiler.
+Makefiles are here to make the compilation easier.
+To use the program go to the 'Interface' folder and type 'Make' and type './interface' 
+To tryout how the neural network deals with images you should go to the .hidden file (our team is ashamed by not being able to finnish at time :( )
+In the .hidden file type make , and then type './train training/X/0.gif'
+
+THE X can be replaced by any letter lower or upper case (we have different images of letters with links to the actual letters)
+
+The output will be shown on the console.
+
+
+
+
+For more information feel free to write me an email to :  ilyes.bentaarit@epita.fr
+
+
+Thanks to : Sammy / Alexandre / Martin for their contribution for this project.
